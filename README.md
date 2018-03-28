@@ -1,2 +1,2 @@
-# Think-and-Learn-Everyday
-Record my learning and thinking everyday : https://juejin.im/user/5ab51478f265da23a3352cd9/posts
+# Learning Data Science Step by Step
+知乎专栏[《数据科学慢慢学》](https://zhuanlan.zhihu.com/c_173581398)配套代码仓库，数据科学，我们一起慢慢学
